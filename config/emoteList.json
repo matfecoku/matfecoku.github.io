@@ -1,0 +1,681 @@
+{
+    "Emotes": 
+    {
+        "BibleThump": 
+        { 
+            "Location": "../images/BibleThump.png"
+        },
+        "PogChamp": 
+        {
+            "Location": "../images/PogChamp.png"
+        },
+        "peepoSad":         
+        {
+            "Location": "../images/peepoSad.png"
+        },
+        "ppHop":    
+        {
+            "Location": "../images/ppHop.gif"
+        },
+        "COGGERS": 
+        {
+            "Location": "../images/COGGERS.gif"
+        },
+        "WAYTOODANK": 
+        {
+            "Location": "../images/WAYTOODANK.gif"
+        },
+        "sumSmash": 
+        {
+            "Location": "../images/sumSmash.gif"
+        },
+        "ppOverheat": 
+        {
+            "Location": "../images/ppOverheat.gif"
+        },
+        "xqcSmash": 
+        {
+            "Location": "../images/xqcSmash.gif"
+        },
+        "PianoTime": 
+        {
+            "Location": "../images/PianoTime.gif"
+        },
+        "xqcPls": 
+        {
+            "Location": "../images/xqcPls.gif"
+        },
+        "pepeJAM": 
+        {
+            "Location": "../images/pepeJAM.gif"
+        },
+        "HACKERMANS": 
+        {
+            "Location": "../images/HACKERMANS.gif"
+        },
+        "xqcCD": 
+        {
+            "Location": "../images/xqcCD.png"
+        },
+        "pepeD": 
+        {
+            "Location": "../images/pepeD.gif"
+        },
+        "pepeSmoke": 
+        {
+            "Location": "../images/pepeSmoke.gif"
+        },
+        "pepeMeltdown": 
+        {
+            "Location": "../images/pepeMeltdown.gif"
+        },
+        "ricardoFlick": 
+        {
+            "Location": "../images/ricardoFlick.gif"
+        },
+        "PepegaPls": 
+        {
+            "Location": "../images/PepegaPls.gif"
+        },
+        "xqcJAM": 
+        {
+            "Location": "../images/xqcJAM.gif"
+        },
+        "xqcDitch": 
+        {
+            "Location": "../images/xqcDitch.gif"
+        },
+        "xqcSlam": 
+        {
+            "Location": "../images/xqcSlam.gif"
+        },
+        "WEEBSOUT": 
+        {
+            "Location": "../images/WEEBSOUT.gif"
+        },
+        "xqcDisco": 
+        {
+            "Location": "../images/xqcDisco.gif"
+        },
+        "yikesJAM": 
+        {
+            "Location": "../images/yikesJAM.gif"
+        },
+        "PepegaAim": 
+        {
+            "Location": "../images/PepegaAim.gif"
+        },
+        "TriDance": 
+        {
+            "Location": "../images/TriDance.gif"
+        },
+        "modCheck": 
+        {
+            "Location": "../images/modCheck.gif"
+        },
+        "peepoClap": 
+        {
+            "Location": "../images/peepoClap.gif"
+        },
+        "TriFi": 
+        {
+            "Location": "../images/TriFi.gif"
+        },
+        "Pepepains": 
+        {
+            "Location": "../images/Pepepains.png"
+        },
+        "PepegaDriving": 
+        {
+            "Location": "../images/PepegaDriving.gif"
+        },
+        "PepegaCredit": 
+        {
+            "Location": "../images/PepegaCredit.gif"
+        },
+        "PepegaReading": 
+        {
+            "Location": "../images/PepegaReading.gif"
+        },
+        "catJAM": 
+        {
+            "Location": "../images/catJAM.gif"
+        },
+        "PepegaChat": 
+        {
+            "Location": "../images/PepegaChat.gif"
+        },
+        "Clap": 
+        {
+            "Location": "../images/Clap.gif"
+        },
+        "WaitWhat": 
+        {
+            "Location": "../images/WaitWhat.png"
+        },
+        "forsenPls": 
+        {
+            "Location": "../images/forsenPls.gif"
+        },
+        "KKool": 
+        {
+            "Location": "../images/KKool.gif"
+        },
+        "nymnCorn": 
+        {
+            "Location": "../images/nymnCorn.gif"
+        },
+        "ZULUL": 
+        {
+            "Location": "../images/ZULUL.png"
+        },
+        "POGGERS": 
+        {
+            "Location": "../images/POGGERS.png"
+        },
+        "FeelsGladMan": 
+        {
+            "Location": "../images/FeelsGladMan.png"
+        },
+        "monkaSHAKE": 
+        {
+            "Location": "../images/monkaSHAKE.gif"
+        },
+        "monkaGun": 
+        {
+            "Location": "../images/MonkaGun.png"
+        },
+        "TriKool": 
+        {
+            "Location": "../images/TriKool.gif"
+        },
+        "GuitarTime": 
+        {
+            "Location": "../images/GuitarTime.gif"
+        },
+        "EZ": 
+        {
+            "Location": "../images/EZ.png"
+        },
+        "PepePls": 
+        {
+            "Location": "../images/PepePls.gif"
+        },
+        "FeelsLagMan": 
+        {
+            "Location": "../images/FeelsLagMan.gif"
+        },
+        "gachiBASS": 
+        {
+            "Location": "../images/gachiBASS.gif"
+        },
+        "FeelsRainMan": 
+        {
+            "Location": "../images/FeelsRainMan.gif"
+        },
+        "GachiPls": 
+        {
+            "Location": "../images/GachiPls.gif"
+        },
+        "gachiHYPER": 
+        {
+            "Location": "../images/gachiHYPER.gif"
+        },
+        "OMEGALUL": 
+        {
+            "Location": "../images/OMEGALUL.png"
+        },
+        "PagChomp": 
+        {
+            "Location": "../images/PagChomp.png"
+        },
+        "FeelsStrongMan": 
+        {
+            "Location": "../images/FeelsStrongMan.png"
+        },
+        "FeelsWeirdMan": 
+        {
+            "Location": "../images/FeelsWeirdMan.png"
+        },
+        "LULW": 
+        {
+            "Location": "../images/LULW.png"
+        },
+        "KKomrade": 
+        {
+            "Location": "../images/KKomrade.png"
+        },
+        "FeelsOkayMan": 
+        {
+            "Location": "../images/FeelsOkayMan.png"
+        },
+        "AYAYA": 
+        {
+            "Location": "../images/AYAYA.png"
+        },
+        "TriEasy": 
+        {
+            "Location": "../images/TriEasy.png"
+        },
+        "KKonaW": 
+        {
+            "Location": "../images/KKonaW.png"
+        },
+        "FeelsDankMan": 
+        {
+            "Location": "../images/FeelsDankMan.png"
+        },
+        "FeelsWeirdManW": 
+        {
+            "Location": "../images/FeelsWeirdManW.png"
+        },
+        "Pog": 
+        {
+            "Location": "../images/Pog.png"
+        },
+        "monkaW": 
+        {
+            "Location": "../images/monkaW.png"
+        },
+        "Kapp": 
+        {
+            "Location": "../images/Kapp.png"
+        },
+        "4Shrug": 
+        {
+            "Location": "../images/4Shrug.png"
+        },
+        "HandsUp": 
+        {
+            "Location": "../images/HandsUp.png"
+        },
+        "4House": 
+        {
+            "Location": "../images/4House.png"
+        },
+        "PepeHands": 
+        {
+            "Location": "../images/PepeHands.png"
+        },
+        "HYPERS": 
+        {
+            "Location": "../images/HYPERS.png"
+        },
+        "monkaTOS": 
+        {
+            "Location": "../images/monkaTOS.png"
+        },
+        "5Head": 
+        {
+            "Location": "../images/5Head.png"
+        },
+        "monkaHmm": 
+        {
+            "Location": "../images/monkaHmm.png"
+        },
+        "4Heed": 
+        {
+            "Location": "../images/4Heed.png"
+        },
+        "Pepega": 
+        {
+            "Location": "../images/Pepega.png"
+        },
+        "PeepoGlad": 
+        {
+            "Location": "../images/PeepoGlad.png"
+        },
+        "WideHard": 
+        {
+            "Location": "../images/WideHard.png"
+        },
+        "forsenCD": 
+        {
+            "Location": "../images/forsenCD.png"
+        },
+        "PogU": 
+        {
+            "Location": "../images/PogU.png"
+        },
+        "DansGame": 
+        {
+            "Location": "../images/DansGame.png"
+        },
+        "WeirdChamp": 
+        {
+            "Location": "../images/WeirdChamp.png"
+        },
+        "PepeLaugh": 
+        {
+            "Location": "../images/PepeLaugh.png"
+        },
+        "NaM": 
+        {
+            "Location": "../images/NaM.png"
+        },
+        "peepoWTF": 
+        {
+            "Location": "../images/peepoWTF.png"
+        },
+        "monkaEyes": 
+        {
+            "Location": "../images/monkaEyes.png"
+        },
+        "widepeepoHappy": 
+        {
+            "Location": "../images/widepeepoHappy.png"
+        },
+        "3Head": 
+        {
+            "Location": "../images/3Head.png"
+        },
+        "OkayChamp": 
+        {
+            "Location": "../images/OkayChamp.png"
+        },
+        "widepeepoSad": 
+        {
+            "Location": "../images/widepeepoSad.png"
+        },
+        "cmonBruh": 
+        {
+            "Location": "../images/cmonBruh.png"
+        },
+        "cooBruh": 
+        {
+            "Location": "../images/cooBruh.png"
+        },
+        "PauseChamp": 
+        {
+            "Location": "../images/PauseChamp.png"
+        },
+        "Sadge": 
+        {
+            "Location": "../images/Sadge.png"
+        },
+        "haHAA": 
+        {
+            "Location": "../images/haHAA.png"
+        },
+        "PepegaBlind": 
+        {
+            "Location": "../images/PepegaBlind.png"
+        },
+        "SMOrc": 
+        {
+            "Location": "../images/SMOrc.png"
+        },
+        "BloodTrail": 
+        {
+            "Location": "../images/BibleThump.png"
+        },
+        "FailFish": 
+        {
+            "Location": "../images/FailFish.png"
+        },
+        "MrDestructoid": 
+        {
+            "Location": "../images/MrDestructoid.png"
+        },
+        "SSSsss": 
+        {
+            "Location": "../images/SSSsss.png"
+        },
+        "PunchTrees": 
+        {
+            "Location": "../images/PunchTrees.png"
+        },
+        "ANELE": 
+        {
+            "Location": "../images/ANELE.png"
+        },
+        "Kappa": 
+        {
+            "Location": "../images/Kappa.png"
+        },
+        "ResidentSleeper": 
+        {
+            "Location": "../images/ResidentSleeper.png"
+        },
+        "4Head": 
+        {
+            "Location": "../images/4Head.png"
+        },
+        "Keepo": 
+        {
+            "Location": "../images/Keepo.png"
+        },
+        "KappaPride": 
+        {
+            "Location": "../images/KappaPride.png"
+        },
+        "WutFace": 
+        {
+            "Location": "../images/WutFace.png"
+        },
+        "CoolCat": 
+        {
+            "Location": "../images/CoolCat.png"
+        },
+        "NotLikeThis": 
+        {
+            "Location": "../images/NotLikeThis.png"
+        },
+        "VoteYea": 
+        {
+            "Location": "../images/VoteYea.png"
+        },
+        "VoteNay": 
+        {
+            "Location": "../images/VoteNay.png"
+        },
+        "Jebaited": 
+        {
+            "Location": "../images/Jebaited.png"
+        },
+        "TriHard": 
+        {
+            "Location": "../images/TriHard.png"
+        },
+        "TheIlluminati": 
+        {
+            "Location": "../images/TheIlluminati.png"
+        },
+        "KonCha": 
+        {
+            "Location": "../images/KonCha.png"
+        },
+        "PunOko": 
+        {
+            "Location": "../images/PunOko.png"
+        },
+        "LUL": 
+        {
+            "Location": "../images/LUL.png"
+        },
+        "GabeN": 
+        {
+            "Location": "../images/GabeN.png"
+        },
+        "FeelsBirthdayMan": 
+        {
+            "Location": "../images/FeelsBirthdayMan.png"
+        },
+        "monkaS": 
+        {
+            "Location": "../images/monkaS.png"
+        },
+        "FeelsBadMan": 
+        {
+            "Location": "../images/FeelsBadMan.png"
+        },
+        "D:": 
+        {
+            "Location": "../images/D.png"
+        },
+        "SourPls": 
+        {
+            "Location": "../images/SourPls.gif"
+        },
+        "AngelThump": 
+        {
+            "Location": "../images/AngelThump.png"
+        },
+        "PedoBear": 
+        {
+            "Location": "../images/PedoBear.png"
+        },
+        "YetiZ": 
+        {
+            "Location": "../images/YetiZ.png"
+        },
+        ":tf:": 
+        {
+            "Location": "../images/tf.png"
+        },
+        "CiGrip": 
+        {
+            "Location": "../images/CiGrip.png"
+        },
+        "gucioCo": 
+        {
+            "Location": "../images/GucioCo.png"
+        },
+        "Harambe": 
+        {
+            "Location": "../images/Harambe.png"
+        },
+        "tyler1Sleeper": 
+        {
+            "Location": "../images/tyler1Sleeper.png"
+        },
+        "tyler1Bruh": 
+        {
+            "Location": "../images/tyler1Bruh.png"
+        },
+        "tyler1R1": 
+        {
+            "Location": "../images/tyler1R1.png"
+        },
+        "tyler1R2": 
+        {
+            "Location": "../images/tyler1R2.png"
+        },
+        "tyler1H": 
+        {
+            "Location": "../images/tyler1H.png"
+        },
+        "PepoDance": 
+        {
+            "Location": "../images/PepoDance.gif"
+        },
+        "PepoCheer": 
+        {
+            "Location": "../images/PepoCheer.gif"
+        },
+        "pepeL": 
+        {
+            "Location": "../images/pepeL.gif"
+        },
+        "peepoHey": 
+        {
+            "Location": "../images/PeepoHey.gif"
+        },
+        "peepoPog": 
+        {
+            "Location": "../images/peepoPog.png"
+        },
+        "peepoPooPoo": 
+        {
+            "Location": "../images/peepoPooPoo.gif"
+        },
+        "peepoArrive": 
+        {
+            "Location": "../images/peepoArrive.gif"
+        },
+        "PeepoClap": 
+        {
+            "Location": "../images/PeepoClap.gif"
+        },
+        "RiotPhreak": 
+        {
+            "Location": "../images/RiotPhreak.png"
+        },
+        "Peepoleave": 
+        {
+            "Location": "../images/Peepoleave.gif"
+        },
+        "DonoWall": 
+        {
+            "Location": "../images/DonoWall.gif"
+        },
+        "prxGasm": 
+        {
+            "Location": "../images/prxGasm.png"
+        },
+        "FeelsWowMan": 
+        {
+            "Location": "../images/FeelsWowMan.png"
+        },
+        "OMEGAhaHAA": 
+        {
+            "Location": "../images/OMEGAhaHAA.png"
+        },
+        "EHEHE": 
+        {
+            "Location": "../images/EHEHE.png"
+        },
+        "FeelsSadMan": 
+        {
+            "Location": "../images/FeelsSadMan.png"
+        },
+        "tylerWAT": 
+        {
+            "Location": "../images/tylerWAT.png"
+        },
+        "RareTyler": 
+        {
+            "Location": "../images/RareTyler.gif"
+        },
+        "PepoThink": 
+        {
+            "Location": "../images/PepoThink.png"
+        },
+        "ggxGang": 
+        {
+            "Location": "../images/ggxGang.png"
+        },
+        "Wideler1": 
+        {
+            "Location": "../images/Wideler1.png"
+        },
+        "SillyChamp": 
+        {
+            "Location": "../images/SillyChamp.png"
+        },
+        "KEKW": 
+        {
+            "Location": "../images/KEKW.png"
+        },
+        "WhatChamp": 
+        {
+            "Location": "../images/WhatChamp.png"
+        },
+        "YEP": 
+        {
+            "Location": "../images/YEP.png"
+        },
+        "BabyRage": 
+        {
+            "Location": "../images/BabyRage.png"
+        },
+        "RarePope":
+        {
+            "Location": "../images/RarePope.gif"
+        },
+        "VisLaud":
+        {
+            "Location": "../images/VisLaud.png"
+        }
+    }
+}
